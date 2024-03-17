@@ -1,0 +1,13 @@
+com\denis\WebApplication.class
+com\denis\shiro\MyRealm.class
+com\denis\util\JWTUtil.class
+com\denis\shiro\JWTToken.class
+com\denis\exception\UnauthorizedException.class
+com\denis\shiro\JWTFilter.class
+com\denis\database\UserBean.class
+com\denis\database\UserService.class
+com\denis\shiro\ShiroConfig.class
+com\denis\controller\WebController.class
+com\denis\controller\ExceptionController.class
+com\denis\bean\ResponseBean.class
+com\denis\database\DataSource.class
